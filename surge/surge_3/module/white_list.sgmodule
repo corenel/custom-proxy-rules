@@ -1,0 +1,6 @@
+#!name=Custom white list
+#!desc=White list rules for personal usage.
+#!system=mac
+
+[General]
+skip-proxy = %APPEND% 172.0.0.0/24
