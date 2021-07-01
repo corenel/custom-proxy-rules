@@ -1,7 +1,5 @@
 #!name=Custom DNS mapping
 #!desc=DNS mapping rules for personal usage.
-#!system=mac
 
 [Host]
-frp.yuthon.com=192.168.10.101
-101.68.81.66=192.168.10.101
+*zju.edu.cn = server:system
